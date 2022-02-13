@@ -6,3 +6,7 @@ Outlier exploratory data discovery analysis for detecting when feature Amount Di
 * Cardiovascular heart failures survival analysis
 
 Cardiovascular heart failures analysis, the purpose and effort is to investigate how to use EDA analytics and a basic Random Forest Classifier ensemble model for determining model performance accuracy and precision that might be later developed into are more robust AI ML model apply to the Cardiovascular diseases dataset analysis
+
+* Regression classification for Unbalanced Data Sets
+
+Analytics for unbalanced data classification, investigate a similar algorithm approach in order to ascertain if it is possible to show any improved model accuracy.
