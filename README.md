@@ -1,5 +1,9 @@
 # Machine Learning and Object Detection Code
 
+* Object Detection computer vision
+
+Image detection using multiple computer vision architectures, VGG16, YOLO, YOLO V3, Resnet, Darknet, Tensorflow
+ 
 * Outlier Discovery Analysis 
 
 Outlier exploratory data discovery analysis for detecting when feature Amount Dispensed has any outlier risk for potential discrepancy for balance computation. This study can serve as the base foundation framework which can be offered as a starting point for building a data quality feedback loop to integrate together into doctor's data practices. For such a quality feedback loop to work effectly, there must be a full complete analysis which can accurately identify outliers that may skew critical computations.
@@ -12,6 +16,3 @@ Clinical data on Cardiovascular heart failures analysis for serum creatinine and
 
 Analytics for unbalanced data classification, investigate a similar algorithm approach in order to ascertain if it is possible to show any improved model accuracy.
 
-* Object Detection computer vision
-
-Image detection using multiple computer vision architectures, VGG16, YOLO, YOLO V3, Resnet, Darknet, Tensorflow
