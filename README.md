@@ -14,4 +14,4 @@ Analytics for unbalanced data classification, investigate a similar algorithm ap
 
 * Object Detection computer vision
 
-Image detection using VGG16, YOLO, YOLO V3, Resnet, Darknet, Tensorflow
+Image detection using multiple computer vision architectures, VGG16, YOLO, YOLO V3, Resnet, Darknet, Tensorflow
