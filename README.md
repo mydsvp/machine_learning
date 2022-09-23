@@ -11,3 +11,7 @@ Clinical data on Cardiovascular heart failures analysis for serum creatinine and
 * Regression classification for Unbalanced Data Sets
 
 Analytics for unbalanced data classification, investigate a similar algorithm approach in order to ascertain if it is possible to show any improved model accuracy.
+
+* Object Detection computer vision
+
+Image detection using YOLO, YOLO V3, Resnet, Darknet, Tensorflow
